@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1475406818 source:/home/vrosca/acm/3306/3306.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<algorithm>
+
+1475513408 source:/home/vrosca/acm/4105/4105.cpp
+	<iostream>
+	<fstream>
+	<utility>
+
